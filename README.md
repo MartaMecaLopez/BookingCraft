@@ -17,13 +17,13 @@ El objetivo principal es **limpiar, preparar y analizar** un conjunto de datos r
 
 ## 🧪 Estructura de la Prueba
 
-### 📊 Parte 1: Análisis Exploratorio de Datos (EDA)
+### Parte 1: Análisis Exploratorio de Datos (EDA)
 
 - Inspección general del dataset
 - Detección de nulos, duplicados y tipos de datos
 - Identificación de inconsistencias y reglas de negocio clave
 
-### 🧼 Parte 2: Limpieza y Preparación
+### Parte 2: Limpieza y Preparación
 
 - Eliminar duplicados basados en reserva y cantidad
 - Validar formato de correos electrónicos
@@ -32,7 +32,7 @@ El objetivo principal es **limpiar, preparar y analizar** un conjunto de datos r
 - Eliminar columna redundante `Amount_comges_in_EUR`
 - Normalizar texto (minúsculas, capitalización, etc.)
 
-### 📈 Visualización de Datos
+### Parte 3: Visualización de Datos
 
 - Creación de gráficos básicos en Power BI o Tableau:
   - Tipos de solicitudes más comunes
