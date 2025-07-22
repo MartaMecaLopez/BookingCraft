@@ -2,8 +2,6 @@
 
 ## 📌 Descripción del Proyecto
 
-Este proyecto forma parte de una prueba técnica para el puesto de **Analista de Datos** en una empresa del sector hotelero que actúa como intermediario entre proveedores de productos de viaje y distribuidores.
-
 El objetivo principal es **limpiar, preparar y analizar** un conjunto de datos relacionados con solicitudes de reservas, aprobaciones, precios y otros campos clave, con vistas a su integración en un **data warehouse** para posteriores análisis de negocio.
 
 ---
